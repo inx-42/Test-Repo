@@ -1,2 +1,2 @@
-# Test-Repo
+# Test-Repo-Public
 Testing out git...
